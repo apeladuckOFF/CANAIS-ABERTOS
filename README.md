@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp"
+#EXTINF:-1 tvg-logo="https://m.topflix.vc/images/poster/170255/272414306.jpg"
 group-title="TV ABERTA", SBT
-https://youtu.be/ABVQXgr2LW4
+https://youtu.be/vOUCUJShIzU
