@@ -1,4 +1,5 @@
-# EXTM3U
+#EXTM3U
 
-#EXTINF:-1,SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/media_w165930016_b216000_sleng_37329.ts
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c58e812f5890bb17b7ea47f918a7d1df.webp"
+group-title="TV ABERTA", SBT
+https://youtu.be/ABVQXgr2LW4
